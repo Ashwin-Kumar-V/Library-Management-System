@@ -1,0 +1,149 @@
+[
+    {
+        "ISBN": 1,
+        "Title": "Harry Potter and the Philosopher's Stone",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"26-JUNE-1997"
+    },
+    {
+        "ISBN": 2,
+        "Title": "Harry Potter and the Chamber of Secrets",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"02-JULY-1998"
+    },
+    {
+        "ISBN": 3,
+        "Title": "Harry Potter and the Prisoner of Azkaban",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"08-JULY-1999"
+    },
+    {
+        "ISBN": 4,
+        "Title": "Harry Potter and the Goblet of Fire",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"08-JULY-2000"
+    },
+    {
+        "ISBN": 5,
+        "Title": "Harry Potter and Order of the Phoenix",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"21-JUNE-2003"
+    },
+    {
+        "ISBN": 6,
+        "Title": "Harry Potter and the Half-Blood Prince",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"16-JULY-2005"
+    },
+    {
+        "ISBN": 7,
+        "Title": "Harry Potter and the Deathly Hallows",
+        "Author": "J.K Rowling",
+        "Subject": "Fiction",
+        "Publishdate":"14-JULY-2007"
+    },
+    {
+        "ISBN": 8,
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Author": "J.R.R. Tolkien",
+        "Subject": "Fiction",
+        "Publishdate":"29-JULY-1954"
+    },
+    {
+        "ISBN": 9,
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Author": "J.R.R. Tolkien",
+        "Subject": "Fiction",
+        "Publishdate":"11-NOV-1954"
+    },
+    {
+        "ISBN": 10,
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Author": "J.R.R. Tolkien",
+        "Subject": "Fiction",
+        "Publishdate":"20-OCT-1955"
+    },
+    {
+        "ISBN": 11,
+        "Title": "The Godfather",
+        "Author": "Mario Puzo",
+        "Subject": "Fiction",
+        "Publishdate":"10-MAR-1969"
+    },
+    {
+        "ISBN": 12,
+        "Title": "The Sicilian",
+        "Author": "Mario Puzo",
+        "Subject": "Fiction",
+        "Publishdate":"12-NOV-1984"
+    },
+    {
+        "ISBN": 13,
+        "Title": "The Godfather Returns",
+        "Author": "Mario Puzo",
+        "Subject": "Fiction",
+        "Publishdate":"16-NOV-2004"
+    },
+    {
+        "ISBN": 14,
+        "Title": "The Godfather's Revenge",
+        "Author": "Mario Puzo",
+        "Subject": "Fiction",
+        "Publishdate":"07-NOV-2006"
+    },
+    {
+        "ISBN": 15,
+        "Title": "The Family Corleone",
+        "Author": "Ed Falco",
+        "Subject": "Fiction",
+        "Publishdate":"08-MAY-2012"
+    },
+    {
+        "ISBN": 16,
+        "Title": "The C Programming Language",
+        "Author": "Dennis M.Ritchie",
+        "Subject": "Education",
+        "Publishdate":"22-FEB-1978"
+    },
+    {
+        "ISBN": 17,
+        "Title": "The C++ Programming Language",
+        "Author": "Bjarne stroustrup",
+        "Subject": "Education",
+        "Publishdate":"25-OCT-1985"
+    },
+    {
+        "ISBN": 18,
+        "Title": "The Java Programming Language",
+        "Author": "James Gosling",
+        "Subject": "Education",
+        "Publishdate":"21-AUG-1991"
+    },
+    {
+        "ISBN": 19,
+        "Title": "Breath: The New Science of Lost Art",
+        "Author": "James Nestor",
+        "Subject": "Non-Fiction",
+        "Publishdate":"21-MAY-2020"
+    },
+    {
+        "ISBN": 20,
+        "Title": "The Kissing Bug",
+        "Author": "Daisy Hernandez",
+        "Subject": "Non-Fiction",
+        "Publishdate":"30-JAN-2016"
+    },
+    {
+        "ISBN": 21,
+        "Title": "Finding the Mother Tree",
+        "Author": "Suzanne Simard",
+        "Subject": "Non-Fiction",
+        "Publishdate":"31-JUNE-2012"
+    }
+]
